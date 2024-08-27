@@ -1,7 +1,6 @@
 # 🧸Quantum Bears' Cafe☕: Galactic Defense Brewmasters
 
 
-★ScreenshotやAIのイメージビジュアルなどを適宜追加
 
 **量子もつれカプチーノで宇宙の神秘に触れる。スペシャルなあなたのカフェで紡ぐ、銀河の物語。**
 
@@ -11,6 +10,9 @@
 
 🧸Quantum Bears' Cafe☕は、宇宙を舞台にしたユニークなアイドルゲームです。プレイヤーはカフェオーナーとして、特殊な能力を秘めた量子ベア、相対性ベア、超弦ベア、暗黒物質ベア、タイムトラベルベア、錬金術ベア、多元宇宙ベア、反物質ベアたちをバリスタとして雇い、さまざまな宇宙空間を旅しながら宇宙の謎を解き明かし、最終的には宇宙を守ることを目指します。
 
+☕☕☕☕☕プレイはこちらから：[Quantum Bears' Cafe ゲームページ](https://230327tokiex.github.io/QuantumBearsCafe/)
+
+
 ## 🚀主要機能
 
 - ヘッダー：ゲーム設定やカスタマイズオプションにアクセス
@@ -19,6 +21,11 @@
 - イベントログエリア：ゲーム内で発生するさまざまなイベントを表示
 - ベアリストエリア：雇用したベアの情報を表示
 - アクションボタンエリア：最新のイベントログの確認など各種ゲーム機能へのアクセス
+
+
+![Quantum Bears' Cafe](img/imgs1candy.png)
+
+![Quantum Bears' Cafe](img/img3MultiverseBear.png)
 
 ## 🧸ゲームプレイ方法
 
@@ -30,7 +37,9 @@
 6. 宇宙人研究所で捕獲した宇宙人のデータを分析し、宇宙の謎を解き明かします。
 7. ハンバーガーメニューから、プレイヤー名、カフェ名、乗り物名のカスタマイズ、ゲームデータの削除、アチーブメントの確認ができます。
 
-プレイはこちらから：[Quantum Bears' Cafe ゲームページ](ここにGitHub PagesのURLを挿入)
+![Quantum Bears' Cafe](img/img_cafereport.png)
+
+![Quantum Bears' Cafe](img/img_locationdetails.png)
 
 ## 🍰実装済み機能
 
